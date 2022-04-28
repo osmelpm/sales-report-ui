@@ -1,0 +1,14 @@
+.navbar__container {
+  display: flex;
+  background-color: #2e88e2;
+  color: #ffff;
+}
+
+.menu {
+  padding-left: 0.5rem;
+  padding-right: 8rem;
+}
+
+.title {
+  margin-left: 35rem;
+}

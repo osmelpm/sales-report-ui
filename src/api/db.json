@@ -1,0 +1,164 @@
+{
+  "monthly-sells": [
+    {
+      "month": "January",
+      "products": [
+        {
+          "id": 1,
+          "product": "Foldsack Backpack",
+          "brand": "addidas",
+          "category": "men's clothing",
+          "amount": 120
+        },
+        {
+          "id": 2,
+          "product": "Mens Casual T-Shirts",
+          "brand": "nike",
+          "category": "men's clothing",
+          "amount": 259
+        },
+        {
+          "id": 3,
+          "product": "Mens Cotton Jacket",
+          "brand": "armani",
+          "category": "men's clothing",
+          "amount": 500
+        },
+        {
+          "id": 4,
+          "product": "Mens Casual Slim Fit",
+          "brand": "addidas",
+          "category": "men's clothing",
+          "amount": 430
+        },
+        {
+          "id": 5,
+          "product": "Silver Chain Bracelet",
+          "brand": "golden",
+          "category": "jewelery",
+          "amount": 400
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "products": [
+        {
+          "id": 6,
+          "product": "Gold Petite Micropave",
+          "brand": "silver",
+          "category": "jewelery",
+          "amount": 70
+        },
+        {
+          "id": 7,
+          "product": "Gold Plated Princess",
+          "brand": "golden",
+          "category": "jewelery",
+          "amount": 400
+        },
+        {
+          "id": 8,
+          "product": "Pierced Owl Rose Gold",
+          "brand": "gold",
+          "category": "jewelery",
+          "amount": 100
+        },
+        {
+          "id": 9,
+          "product": "WD 2TB Elements Portable - USB 3.0",
+          "brand": "wd tech",
+          "category": "electronics",
+          "amount": 203
+        },
+        {
+          "id": 10,
+          "product": "SanDisk SSD PLUS 1TB Internal SSD",
+          "brand": "sandisk",
+          "category": "electronics",
+          "amount": 470
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "products": [
+        {
+          "id": 11,
+          "product": "Silicon Power 256GB SSD",
+          "brand": "silicon power",
+          "category": "electronics",
+          "amount": 319
+        },
+        {
+          "id": 12,
+          "product": "WD 4TB Hard Drive",
+          "brand": "wd tech",
+          "category": "electronics",
+          "amount": 400
+        },
+        {
+          "id": 13,
+          "product": "Acer SB220Q Full HD IPS Ultra-Thin",
+          "brand": "acer",
+          "category": "electronics",
+          "amount": 250
+        },
+        {
+          "id": 14,
+          "product": "Samsung Curved Gaming Monitor",
+          "brand": "samsung",
+          "category": "electronics",
+          "amount": 140
+        },
+        {
+          "id": 15,
+          "product": "BIYLACLESEN Women's Jacket Winter Coats",
+          "brand": "addidas",
+          "category": "women's clothing",
+          "amount": 235
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "products": [
+        {
+          "id": 16,
+          "product": "Lock and Love Women's Jacket",
+          "brand": "doyce",
+          "category": "women's clothing",
+          "amount": 340
+        },
+        {
+          "id": 17,
+          "product": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+          "brand": "doyce",
+          "category": "women's clothing",
+          "amount": 679
+        },
+        {
+          "id": 18,
+          "product": "MBJ Women's Short Sleeve Boat Neck V ",
+          "brand": "addidas",
+          "category": "women's clothing",
+          "amount": 130
+        },
+        {
+          "id": 19,
+          "product": "Opna Women's Short Sleeve Moisture",
+          "brand": "addidas",
+          "category": "women's clothing",
+          "amount": 146
+        },
+        {
+          "id": 20,
+          "product": "DANVOUY Womens T Shirt Casual Cotton Short",
+          "brand": "danvouy",
+          "category": "women's clothing",
+          "amount": 145
+        }
+      ]
+    }
+  ]
+}
