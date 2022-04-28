@@ -10,7 +10,7 @@ function App() {
 
       <SelectList />
       <Routes>
-        <Route path="/monthly-sells/" element={<ChartArea />} />
+        <Route path="/" element={<ChartArea />} />
       </Routes>
     </div>
   );
