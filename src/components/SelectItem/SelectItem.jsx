@@ -1,6 +1,6 @@
 const SelectItem = ({ label, handleChange, options }) => {
   return (
-    <>
+    <div>
       <label htmlFor={`${label}-id`}>{label}</label>
       <select name={label} onChange={handleChange}>
         <option value="">------------</option>
@@ -10,7 +10,7 @@ const SelectItem = ({ label, handleChange, options }) => {
           </option>
         ))}
       </select>
-    </>
+    </div>
   );
 };
 

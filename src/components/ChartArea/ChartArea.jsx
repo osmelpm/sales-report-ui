@@ -4,11 +4,13 @@ import Chart from "../Chart/Chart";
 import "./ChartArea.css";
 
 const ChartArea = () => {
-  const { data: datapi, error, loading } = useContext(DataContext);
+  const { data: datapi, chart, error, loading } = useContext(DataContext);
 
-  const labels = datapi.map((month) => month.month);
+  let datos = chart.length > 1 ? chart : datapi;
 
-  const amount = datapi.map((month) => {
+  let labels = datos.map((month) => month.month);
+
+  const amount = datos.map((month) => {
     const totalSells = month?.products.reduce(
       (suma, product) => suma + product.amount,
       0
